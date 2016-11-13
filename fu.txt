@@ -1,9 +1,8 @@
-This is the second commit
+T3eb9670a9eｔｗｏhis is the second commit
 
 Novermber 12,2016 9:44
-new feature nov. 12, 2016, 9:48
+new feature nov. ch12, 2016, 9:48
 
 
 cherry-pick test
 commit one
-
